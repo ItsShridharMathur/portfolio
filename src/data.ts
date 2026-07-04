@@ -9,7 +9,7 @@ export const ShridharInfo = {
   linkedin: "linkedin.com/in/shridharkumarmathur",
   github: "github.com/ItsShridharMathur",
   tagline: "Building Intelligent Systems. Breaking Barriers. Securing the Future.",
-  bio: "I'm a Computer Science graduate specialising in Artificial Intelligence & Machine Learning from Abdul Kalam Technical University, Lucknow. I build intelligent systems — from real-time computer vision applications to AI-powered voice assistants. Currently expanding into Ethical Hacking and Cybersecurity to bridge the gap between AI and security. I believe the future belongs to engineers who can both build and protect intelligent systems.",
+  bio: "I'm a Computer Science enthusiast specialising in Artificial Intelligence & Machine Learning from Abdul Kalam Technical University, Lucknow. I build intelligent systems — from real-time computer vision applications to AI-powered voice assistants. Currently expanding into Ethical Hacking and Cybersecurity to bridge the gap between AI and security. I believe the future belongs to engineers who can both build and protect intelligent systems.",
   resumeDriveUrl: "https://drive.google.com/file/d/1nzuhSLb54lHq1uhaXdhpmX8kqTmUgyUe/view?usp=sharing"
 };
 
@@ -79,7 +79,7 @@ export const EducationInfo = {
   degree: "B.Tech — Computer Science (AI & ML)",
   duration: "Aug 2022 – Present",
   location: "Lucknow, UP",
-  cgpa: "6.1 / 10.0"
+  cgpa: "6.30"
 };
 
 export const CertificationsList: Certification[] = [

@@ -134,6 +134,10 @@ export default function EducationCertifications() {
                       <MapPin size={12} className="text-accent-purple" />
                       <span>{EducationInfo.location}</span>
                     </div>
+                    <div className="flex items-center gap-1.5">
+                      <MapPin size={12} className="text-accent-purple" />
+                      <span>{EducationInfo.Results}</span>
+                    </div>
                   </div>
 
                   {/* CGPA Display */}
